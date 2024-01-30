@@ -5,7 +5,7 @@ export const projects = [
     description:
       "A movie data base app made using HTML, CSS and vanilla JavaScript. It includes the poster, rating and summary of the films. Made use of the moviedb api. Possible improvement I plan to make in future is to be able to sort the movies by rating.",
     image: "./movie-app.png",
-    link: "https://reactbootcamp.com",
+    link: "https://zbs-moviesearch.netlify.app/",
   },
   {
     title: "Fictional Company Template",
@@ -13,7 +13,7 @@ export const projects = [
     description:
       "I made a responsive template for a website that could be used for different companies or business. The base design is very simple, but left for that any style changes could easily be implemented depending on the theme of the company.",
     image: "./fictionalcompany.png",
-    link: "https://reactbootcamp.com",
+    link: "https://zs-fictionalcompany.netlify.app/",
   },
   {
     title: "NBA Player Stats app",
@@ -21,7 +21,7 @@ export const projects = [
     description:
       "An nba player stats web app made using React. Using the balldontlie api, I fetched the player data. Also made use of hooks. An improvement I am planning is to be able to select stats from different seasons, as it is currently only using the 2022 season.",
     image: "./nba-app.png",
-    link: "https://reactbootcamp.com",
+    link: "https://zbs-nbasearchapp.netlify.app/",
   },
   {
     title: "Weather app",
@@ -29,7 +29,7 @@ export const projects = [
     description:
       "A weather app made using React which allows you to search for the weather in real time of any city around the world. Made use of hooks, and also terniary to change the background depending on the temperature.",
     image: "./weather-app.png",
-    link: "https://reactbootcamp.com",
+    link: "https://zbs-weatherapp.netlify.app/",
   },
 ];
 
